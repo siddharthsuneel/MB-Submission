@@ -1,0 +1,6 @@
+framework module Pods_SiddharthSuneel_Submission {
+  umbrella header "Pods-SiddharthSuneel-Submission-umbrella.h"
+
+  export *
+  module * { export * }
+}
